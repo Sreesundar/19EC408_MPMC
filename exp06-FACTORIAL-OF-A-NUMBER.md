@@ -61,7 +61,8 @@ OUTPUT
 ---
 MANUAL CALCULATIONS
 
-<img width="1540" height="1518" alt="image" src="https://github.com/user-attachments/assets/c1f3880a-0e4e-4b90-a454-66b2f9037124" />
+![Uploading {2AE8B6C3-EB7E-42E4-A348-FDBE07FD361A}.png…]()
+
 
 
 ---
