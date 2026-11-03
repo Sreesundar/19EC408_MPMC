@@ -61,7 +61,8 @@ OUTPUT
 ---
 MANUAL CALCULATIONS
 
-![Uploading {2AE8B6C3-EB7E-42E4-A348-FDBE07FD361A}.png…]()
+<img width="845" height="791" alt="{2AE8B6C3-EB7E-42E4-A348-FDBE07FD361A}" src="https://github.com/user-attachments/assets/1e22539d-4e8a-47db-afaa-b625a4f34036" />
+
 
 
 
