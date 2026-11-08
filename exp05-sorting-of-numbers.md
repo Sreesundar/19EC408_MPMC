@@ -53,6 +53,7 @@ END
 
 ```
 ## OUTPUT(Ascending order)
+<img width="831" height="563" alt="image" src="https://github.com/user-attachments/assets/69d5af7d-d676-4101-984e-ff1aea5da6b6" />
 
 
 
@@ -107,6 +108,8 @@ END
 
 ```
 ## OUTPUT(Descending order)
+<img width="940" height="558" alt="image" src="https://github.com/user-attachments/assets/2ea21db7-d0a9-4645-a467-3c53cdecc4ec" />
+
 
 
 
