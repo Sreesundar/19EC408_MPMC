@@ -135,7 +135,14 @@ void main(void)
 
 
 ## Output
-<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/0d029d04-352a-40cf-af3e-3eb4c057676d" />
+### OFF
+<img width="1312" height="583" alt="button_released_OFF" src="https://github.com/user-attachments/assets/6c279f1e-662b-4f6d-9947-b233ecc82391" />
+
+### ON
+<img width="1312" height="609" alt="button_pressed_ON" src="https://github.com/user-attachments/assets/20d8806e-92ad-47b0-aafc-929f72008850" />
+
+
+
 
 
 ## Applications
