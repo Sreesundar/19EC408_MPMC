@@ -1,8 +1,6 @@
 # Microprocessors and Microcontrollers Laboratory
 
-[![GitHub stars](https://img.shields.io/github/stars/Sreesundar/19EC408_MPMC?style=flat-square)](https://github.com/Sreesundar/19EC408_MPMC/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Sreesundar/19EC408_MPMC?style=flat-square)](https://github.com/Sreesundar/19EC408_MPMC/network/members)
-[![Last commit](https://img.shields.io/github/last-commit/Sreesundar/19EC408_MPMC?style=flat-square)](https://github.com/Sreesundar/19EC408_MPMC/commits/main)
+
 
 A collection of laboratory experiments for **19EC408 – Microprocessors and Microcontrollers**. This repository documents assembly-language programming, microcontroller fundamentals, peripheral interfacing, and basic embedded-system applications using the **8086**, **8051 family**, and **STM32** platforms.
 
