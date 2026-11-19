@@ -25,7 +25,7 @@ Each experiment is maintained as an individual Markdown document and may include
 | 06 | Factorial of a number | 8051 | Assembly | [View experiment](./exp06-FACTORIAL-OF-A-NUMBER.md) |
 | 10 | STM32 GPIO demonstration (LED/sensor documentation and display code) | STM32 | Embedded C (HAL) | [View experiment](./exp10-LED-BLINK.md) |
 | 11 | Push-button-controlled buzzer and speaker | AT89C51 | Embedded C | [View experiment](./exp12-Push-Button-Controlled-Buzzer-and-Speaker-Using-AT89C51-Microcontroller.md) |
-| 12 | Eight-LED sequential lighting system with forward, reverse, and bounce modes | AT89C51 | 8051 Assembly | [View experiment](./exp12-Eight-LED-Sequential-Lighting-Using-AT89C51.md) |
+| 12 | Eight-LED sequential lighting system with forward, reverse, and bounce modes | AT89C51 | 8051 Assembly | [View experiment](./exp12-LED-Motion-Engine.md) |
 
 > **Repository scope:** The current repository contains the experiment records listed above (01–06 and 10–12). The numbering follows the lab records; it does not imply that every experiment number is present.
 
@@ -78,7 +78,7 @@ Assemble or compile the program in the selected environment, then verify its beh
 ├── exp06-FACTORIAL-OF-A-NUMBER.md
 ├── exp10-LED-BLINK.md
 ├── exp12-Push-Button-Controlled-Buzzer-and-Speaker-Using-AT89C51-Microcontroller.md
-└── exp12-Eight-LED-Sequential-Lighting-Using-AT89C51.md
+├── exp12-LED-Motion-Engine.md\n└── src/\n    └── exp12/\n        └── led_motion.a51
 ```
 
 ## Notes before running the programs
@@ -88,7 +88,7 @@ Assemble or compile the program in the selected environment, then verify its beh
 - Hardware experiments require the correct supply voltage, common ground, interface circuitry, and pin mapping. Check the circuit document before connecting components.
 - **Experiment 03:** The written algorithm refers to Port 0 and Port 2, while the supplied assembly listing accesses internal RAM through `R0`. Confirm the intended input/output method before running it.
 - **Experiment 10:** The document describes sensor-based LED control, but the displayed code cycles through seven-segment digit patterns on GPIOA pins. Its GPIO initialisation and stated sensor behaviour should be reconciled before treating it as a verified sensor-controlled LED implementation.
-- **Experiment 12:** The LED Motion Engine document currently contains the design specification and verification plan. The assembly source, HEX file, Proteus circuit, and screenshots should be added after they have been implemented and tested.
+- **Experiment 12:** The LED Motion Engine includes an 8051 Assembly source file and documented expected patterns. The Keil build, HEX generation, Proteus simulation, and screenshots remain to be verified and added.
 - Output images and measured values are included where available. Results may differ with clock frequency, board configuration, simulator settings, and connected hardware.
 
 ## Learning outcomes
