@@ -1,4 +1,4 @@
-# Experiment 12 — Eight-LED Sequential Lighting System Using AT89C51
+# Experiment 13 — Eight-LED Sequential Lighting System Using AT89C51
 
 > **Project name:** LED Motion Engine  
 > **Course:** 19EC408 — Microprocessors and Microcontrollers Laboratory  
@@ -87,7 +87,7 @@ For active-HIGH LED wiring, the forward sequence is:
 
 ## 8051 Assembly Program
 
-The source file is available at [src/exp12/led_motion.a51](./src/exp12/led_motion.a51).
+The source file is available at [src/exp13/led_motion.a51](./src/exp13/led_motion.a51).
 
 ~~~asm
             ORG 0000H
@@ -198,7 +198,7 @@ LED sequence: LED1 → LED2 → … → LED8 → LED7 → … → LED2 → repea
 ## Keil µVision Build Procedure
 
 1. Create a project and select AT89C51.
-2. Add src/exp12/led_motion.a51 to the project as an A51 assembly source.
+2. Add src/exp13/led_motion.a51 to the project as an A51 assembly source.
 3. Enable HEX file generation in Options for Target → Output.
 4. Build the target and check the build output for assembler errors.
 5. Locate the generated HEX file in the project output directory.
